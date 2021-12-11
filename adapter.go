@@ -1,4 +1,4 @@
-package kitlogadapter
+package log
 
 import (
 	"context"
